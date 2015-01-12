@@ -6,3 +6,4 @@ I like to play soccer
 
 Programming background:
 
+My first programming class was cs-165
