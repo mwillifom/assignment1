@@ -8,3 +8,6 @@ I became intrested at my current job.
 
 Programming background:
 
+My first programming class was cs-165
+
+The secound class I took was cs 225
