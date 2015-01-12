@@ -7,3 +7,5 @@ I like to play soccer
 Programming background:
 
 My first programming class was cs-165
+
+The secound class I took was cs 225
